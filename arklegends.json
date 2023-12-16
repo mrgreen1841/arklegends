@@ -34,7 +34,7 @@
             {
                 "tab3": {
                     "layout": 3,
-                    "buttontext": "3 Box layout",
+                    "buttontext": "Settings",
                     "title1": "<TextStyle.Yellow>GENERAL SETTINGS</>",
                     "title2": "<TextStyle.Yellow>PLAYER SETTINGS</>",
                     "title3": "<TextStyle.Yellow>DINO SETTINGS</>",
