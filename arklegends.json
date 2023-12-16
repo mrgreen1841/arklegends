@@ -44,21 +44,7 @@
                     "imageurl": "https://i.imgur.com/na0Mycz.png"
                 }
             },
-            {
-                "tab4": {
-                    "layout": 4,
-                    "buttontext": "4 Box layout",
-                    "title1": "Top left title",
-                    "title2": "<TextStyle.Green>Top right title</>",
-                    "title3": "<TextStyle.Blue>bottom left title</>",
-                    "title4": "<TextStyle.Yellow>bottom right title</>",
-                    "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-                    "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-                    "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-                    "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-                    "imageurl": "https://i.imgur.com/na0Mycz.png"
-                }
-            }
+            {}
         ],
         "links": [
             {
