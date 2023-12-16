@@ -3,10 +3,10 @@
         "settings": {
             "OpenButton": 0,
             "HideIcon": true,
-            "HideIconAfter": 0,
+            "HideIconAfter": -1,
             "IconURL": "",
             "DisableIconText": true,
-            "IconPosition": 0,
+            "IconPosition": 3,
             "IconTextColor": 0,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
@@ -24,12 +24,10 @@
             },
             {
                 "tab2": {
-                    "layout": 2,
-                    "buttontext": "<RichColor Color=\"1,0,0,1\">Rules</>",
-                    "title1": "Left title",
-                    "title2": "Right title",
-                    "text1": "This text goes into the left box",
-                    "text2": "This text goes into the right box",
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "<TextStyle.Yellow>GENERAL RULES</>",
+                    "text1": "<TextStyle.White>No harassment or bullying.</>\n\n<TextStyle.White>No racism or slurs.</>\n\n<TextStyle.White>No threatening of any kind.</>\n\n<TextStyle.White>Respect white flags.</>\n\n<TextStyle.White>Players can only be in one tribe on all maps.</>\n\n<TextStyle.White>If you're moving base, put up a white flag. This prevents your base from being attacked. This is valid for 2 weeks, after which it needs to be taken down.</>\n\n<TextStyle.White>You are NOT ALLOWED to attack a base with a white flag.</>\n\n<TextStyle.White>Any attack made on other players base while you are under white flag protection immediately revokes your white flag protection.  You may still attack players farming while under white flag protection.</>\n\n<TextStyle.White>No meshing of any kind is allowed.</>\n\n<TextStyle.Yellow>Have fun and keep it clean!</>",
                     "imageurl": "https://i.imgur.com/na0Mycz.png"
                 }
             },
