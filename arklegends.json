@@ -19,7 +19,7 @@
                     "buttontext": "Welcome",
                     "title1": "Welcome to ARK LEGENDS PvP",
                     "text1": "<TextStyle.White>NEW PLAYERS</>\n<RichColor Color=\"255,255,255,1\">Please take a moment to read the rules on the .Rules' tab.</>\n\n<RichColor Color=\"255,255,255,1\">You must do the following:</>\n\n<RichColor Color=\"255,255,255,1\">1. Name your character (no Human/Humano/Mens/Mensch).</>\n<RichColor Color=\"255,255,255,1\">1. Create a tribe.</>\n<RichColor Color=\"255,255,255,1\">2. Register.</>\n\n\n<TextStyle.White>REGISTRATION</>\n<RichColor Color=\"255,255,255,1\">The tribe leader must register your tribe to play the PvP server. You must include the following information:</>\n\n<RichColor Color=\"255,255,255,1\">- Your In-game (IGN) name.</>\n<RichColor Color=\"255,255,255,1\">- Number of players in your tribe.</>\n<RichColor Color=\"255,255,255,1\">- Each Tribemate's IGN.</>\n<RichColor Color=\"255,255,255,1\">- Tribe Name.</>\n<RichColor Color=\"255,255,255,1\">- Map.</>\n\n<RichColor Color=\"255,255,255,1\">This must remain constant over all maps; you cannot be in a different tribe on a different map.</>\n\n<RichColor Color=\"255,255,255,1\">Once complete, you can claim a PvP starter pack (limited to 1 per tribe):</>\n\n<RichColor Color=\"255,255,255,1\">- 100x walls</>\n<RichColor Color=\"255,255,255,1\">- 1,000x Element.</>\n<RichColor Color=\"255,255,255,1\">- 1x Tek Generator.</>\n<RichColor Color=\"255,255,255,1\">- 2x Cryo Fridges.</>\n<RichColor Color=\"255,255,255,1\">- 1x Breeding pair of choice.</>",
-                    "imageurl": "https://i.imgur.com/na0Mycz.png"
+                    "imageurl": "https://i.imgur.com/2mjmypL.jpg"
                 }
             },
             {
@@ -28,7 +28,7 @@
                     "buttontext": "Rules",
                     "title1": "<TextStyle.Yellow>GENERAL RULES</>",
                     "text1": "<TextStyle.White>No harassment or bullying.</>\n\n<TextStyle.White>No racism or slurs.</>\n\n<TextStyle.White>No threatening of any kind.</>\n\n<TextStyle.White>Respect white flags.</>\n\n<TextStyle.White>Players can only be in one tribe on all maps.</>\n\n<TextStyle.White>If you're moving base, put up a white flag. This prevents your base from being attacked. This is valid for 2 weeks, after which it needs to be taken down.</>\n\n<TextStyle.White>You are NOT ALLOWED to attack a base with a white flag.</>\n\n<TextStyle.White>Any attack made on other players base while you are under white flag protection immediately revokes your white flag protection.  You may still attack players farming while under white flag protection.</>\n\n<TextStyle.White>No meshing of any kind is allowed.</>\n\n<TextStyle.Yellow>Have fun and keep it clean!</>",
-                    "imageurl": "https://i.imgur.com/na0Mycz.png"
+                    "imageurl": "https://i.imgur.com/2mjmypL.jpg"
                 }
             },
             {
@@ -41,7 +41,7 @@
                     "text1": "<TextStyle.White>-4x Harvest</>\n<TextStyle.White>-4x Crop Growth</>\n<TextStyle.White>-2x Loot Quality</>\n<TextStyle.White>-2x Fishing Loot Quality</>\n<TextStyle.White>-5 Minute Structure Pickup</>\n<TextStyle.White>-Custom Stacks</>\n<TextStyle.White>-5x Official Difficulty</>\n<TextStyle.White>-No Autodecay</>\n<TextStyle.White>-Friendly Fire Enabled</>\n<TextStyle.White>-4 Man Tribes</>\n<TextStyle.White>-No Alliance</>\n<TextStyle.White>-2x turret damage</>\n<TextStyle.White>-200 turret limit</>",
                     "text2": "<TextStyle.White>-4x Slower Water Drain</>\n<TextStyle.White>-4x Slower Stamina Drain</>\n<TextStyle.White>-4x Slower Food Drain</>\n<TextStyle.White>-2x Passive XP</>\n<TextStyle.White>-2x Crafting XP</>\n<TextStyle.White>-2x Kill XP</>\n<TextStyle.White>-2x Harvest XP</>\n<TextStyle.White>-2x Special XP</>",
                     "text3": "<TextStyle.White>- Max Level 150</>\n<TextStyle.White>- 10x Taming</>\n<TextStyle.White>- 30x Incubation</>\n<TextStyle.White>- 40x Maturation</>\n<TextStyle.White>- 2x Imprint Stats Multiplier</>\n<TextStyle.White>- 1 Dino Imprint</>\n<TextStyle.White>- 4x Mating</>\n<TextStyle.White>- 100x Mating Interval</>\n<TextStyle.White>- 4x Egg Lay Interval</>",
-                    "imageurl": "https://i.imgur.com/na0Mycz.png"
+                    "imageurl": "https://i.imgur.com/2mjmypL.jpg"
                 }
             },
             {}
