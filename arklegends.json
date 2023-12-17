@@ -17,8 +17,8 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "Welcome to ARK LEGENDS",
-                    "text1": "",
+                    "title1": "Welcome to ARK LEGENDS PvP",
+                    "text1": "<TextStyle.White>NEW PLAYERS</>\n<RichColor Color=\"255,255,255,1\">Please take a moment to read the rules on the .Rules' tab.</>\n\n<RichColor Color=\"255,255,255,1\">You must do the following:</>\n\n<RichColor Color=\"255,255,255,1\">1. Name your character (no Human/Humano/Mens/Mensch).</>\n<RichColor Color=\"255,255,255,1\">1. Create a tribe.</>\n<RichColor Color=\"255,255,255,1\">2. Register.</>\n\n\n<TextStyle.White>REGISTRATION</>\n<RichColor Color=\"255,255,255,1\">The tribe leader must register your tribe to play the PvP server. You must include the following information:</>\n\n<RichColor Color=\"255,255,255,1\">- Your In-game (IGN) name.</>\n<RichColor Color=\"255,255,255,1\">- Number of players in your tribe.</>\n<RichColor Color=\"255,255,255,1\">- Each Tribemate's IGN.</>\n<RichColor Color=\"255,255,255,1\">- Tribe Name.</>\n<RichColor Color=\"255,255,255,1\">- Map.</>\n\n<RichColor Color=\"255,255,255,1\">This must remain constant over all maps; you cannot be in a different tribe on a different map.</>\n\n<RichColor Color=\"255,255,255,1\">Once complete, you can claim a PvP starter pack (limited to 1 per tribe):</>\n\n<RichColor Color=\"255,255,255,1\">- 100x walls</>\n<RichColor Color=\"255,255,255,1\">- 1,000x Element.</>\n<RichColor Color=\"255,255,255,1\">- 1x Tek Generator.</>\n<RichColor Color=\"255,255,255,1\">- 2x Cryo Fridges.</>\n<RichColor Color=\"255,255,255,1\">- 1x Breeding pair of choice.</>",
                     "imageurl": "https://i.imgur.com/na0Mycz.png"
                 }
             },
